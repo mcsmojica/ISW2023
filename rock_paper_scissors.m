@@ -71,11 +71,10 @@ for round_number = 1:5
     subplot(5,2,2*(round_number-1)+1); 
     imshow(P1_img(:,:,:,round_number))
     title(strcat('Player1, round',num2str(round_number)));
-
+    
     subplot(5,2,2*round_number); 
     imshow(P2_img(:,:,:,round_number))
     title(strcat('Player2, round',num2str(round_number)));
-    pause;
 end
 
 if P1_score > P2_score
