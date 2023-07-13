@@ -16,4 +16,6 @@ Supplementary files for ISW weeks 1 and 2
 
 
 <ins>References:</ins> \
-Elmar Tarajan (2023). passcode (https://www.mathworks.com/matlabcentral/fileexchange/6590-passcode), MATLAB Central File Exchange. Retrieved July 11, 2023. 
+1. Elmar Tarajan (2023). passcode (https://www.mathworks.com/matlabcentral/fileexchange/6590-passcode), MATLAB Central File Exchange. Retrieved July 11, 2023.
+2. Hansen, P. C., Nagy, J. G., & O'leary, D. P. (2006). Deblurring images: matrices, spectra, and filtering. Society for Industrial and Applied Mathematics.
+3. Gonzalez, R. C., & Woods, R. E. (2011). Digital Image Processing, vol. 21. 
