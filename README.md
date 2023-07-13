@@ -2,8 +2,8 @@
 Supplementary files for ISW weeks 1 and 2
 
 Week 1 files:\
-images_as_arrays.ipynb - Jupyter Notebook for Week 1 Micro-Teaching Lesson: Introduction to Digital Image Processing\
-images_as_arrays.sce - Scilab script for Week 1 Micro-Teaching Lesson: Introduction to Digital Image Processing\
+images_as_arrays.ipynb - [Jupyter](https://jupyter.org/) Notebook for Week 1 Micro-Teaching Lesson: Introduction to Digital Image Processing\
+images_as_arrays.sce - [Scilab](https://www.scilab.org/) script for Week 1 Micro-Teaching Lesson: Introduction to Digital Image Processing\
 \
 \
 Week 2 Files:\
