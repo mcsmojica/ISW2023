@@ -1,6 +1,18 @@
 # ISW2023
-supplementary files for ISW weeks 1 and 2
+Supplementary files for ISW weeks 1 and 2
 
-Mia-ISW2023.ipynb - Jupyter Notebook
+Week 1 files:
+images_as_arrays.ipynb - Jupyter Notebook for Week 1 Micro-Teaching Lesson: Introduction to Digital Image Processing
+images_as_arrays.sce - Scilab script for Week 1 Micro-Teaching Lesson: Introduction to Digital Image Processing
 
-images subfolder contains some sample images
+
+Week 2 Files:
+rock_paper_scissors.m - MATLAB implementation for Week2: Algorithmic Thinking Through Rock Paper Scissors*
+passcode.m - file that requests user input and hides the entered characters by replacing each character with an asterisk (*). Please note that this file is a slightly modified version of Elmar Tajaran's function, which is available on Mathworks. Click [HERE](https://www.mathworks.com/matlabcentral/fileexchange/6590-passcode)
+
+'images' subfolders contain some sample images relevant to each week
+
+
+
+References:
+Elmar Tarajan (2023). passcode (https://www.mathworks.com/matlabcentral/fileexchange/6590-passcode), MATLAB Central File Exchange. Retrieved July 13, 2023. 
