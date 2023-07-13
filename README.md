@@ -16,5 +16,5 @@ Supplementary files for ISW weeks 1 and 2
 \
 \
 \
-<ins>References:</ins>
+<ins>References:</ins> \
 Elmar Tarajan (2023). passcode (https://www.mathworks.com/matlabcentral/fileexchange/6590-passcode), MATLAB Central File Exchange. Retrieved July 11, 2023. 
