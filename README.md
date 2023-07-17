@@ -1,7 +1,7 @@
 # ISW2023
 Supplementary files for ISW weeks 1 and 2
 
-<ins>Week 1 files:</ins> 
+<ins>Week 1 Files:</ins> 
 - images_as_arrays.ipynb - [Jupyter](https://jupyter.org/) Notebook for Week 1 Micro-Teaching Lesson: Introduction to Digital Image Processing
 - images_as_arrays.sce - [Scilab](https://www.scilab.org/) script for Week 1 Micro-Teaching Lesson: Introduction to Digital Image Processing
 
